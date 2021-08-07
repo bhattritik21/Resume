@@ -46,7 +46,7 @@ h3 {
 }
 
 .resume {
-  width: 50vw;
+  width: 55vw;
   background:rgb(63, 149, 207);
   color: white;
   margin: 20px auto;
@@ -68,7 +68,7 @@ h3 {
   padding-bottom: 0;
 }
 .resume .base {
-  width: 40%;
+  width: 39%;
   padding: 30px 15px;
   background: darker-blue;
   color: white;
